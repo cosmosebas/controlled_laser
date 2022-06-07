@@ -1,0 +1,39 @@
+Print Settings
+Printer brand:
+
+Prusa
+
+Printer:
+
+I3 MK3S
+
+Rafts:
+
+No
+Supports:
+
+No
+Resolution:
+
+200-250
+Infill:
+
+20
+Filament brand:
+
+any
+
+Filament material:
+
+PLA
+
+Notes:
+
+Just print everything with 2-3 perimeter layers and 20% infill. Pay attention to the orientation of the 3D parts: none of them need support, but you have to place them correctly on the heated-bed.
+You can print everything at once on a regular heated bed. Check the image showing how to place everything as reference.
+
+NOTES
+There are two 3D part which will need some burr to be cleaned from the bolts holes:
+- LOWER ARM PULLEY SUPPORT
+- UPPER ARM
+That is perfectly OK. Just remove it and screw the bolts as usual :-)
